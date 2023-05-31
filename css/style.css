@@ -55,6 +55,10 @@ p{
     padding: 10px;
     margin: 20px;
   }
+
+  .greeting{
+    text-align: center;
+  }
   
   body{
     background-color: #A8F8FF;
